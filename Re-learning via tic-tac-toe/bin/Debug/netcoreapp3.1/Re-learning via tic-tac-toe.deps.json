@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Re-learning via tic-tac-toe/1.0.0": {
+        "runtime": {
+          "Re-learning via tic-tac-toe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Re-learning via tic-tac-toe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

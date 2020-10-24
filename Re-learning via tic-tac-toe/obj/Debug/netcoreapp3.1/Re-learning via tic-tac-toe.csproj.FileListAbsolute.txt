@@ -1,0 +1,11 @@
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\bin\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.exe
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\bin\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.deps.json
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\bin\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.runtimeconfig.json
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\bin\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.runtimeconfig.dev.json
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\bin\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.dll
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\bin\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.pdb
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\obj\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.csprojAssemblyReference.cache
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\obj\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.AssemblyInfoInputs.cache
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\obj\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.AssemblyInfo.cs
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\obj\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.dll
+C:\Users\Duncan\source\repos\Re-learning via tic-tac-toe\obj\Debug\netcoreapp3.1\Re-learning via tic-tac-toe.pdb
